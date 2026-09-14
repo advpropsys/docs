@@ -10,6 +10,20 @@
   },
   "name": "Liquid Docs",
   "description": "Documentation for Liquid AI Foundation Models (LFM)",
+  "seo": {
+    "organization": {
+      "name": "Liquid AI",
+      "url": "https://www.liquid.ai",
+      "logo": "https://docs.liquid.ai/logo/light.svg",
+      "sameAs": [
+        "https://huggingface.co/LiquidAI",
+        "https://github.com/Liquid4All",
+        "https://x.com/liquidai",
+        "https://www.linkedin.com/company/liquid-ai-inc",
+        "https://www.youtube.com/channel/UClzRQA8Un3AJnlD6h1hv6fA"
+      ]
+    }
+  },
   "colors": {
     "primary": "#5603ad",
     "light": "#864bc4",
