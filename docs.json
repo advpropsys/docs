@@ -83,6 +83,7 @@
             "pages": [
               "lfm/fine-tuning/overview",
               "lfm/fine-tuning/leap-finetune",
+              "lfm/fine-tuning/halo",
               "lfm/fine-tuning/datasets",
               "lfm/fine-tuning/trl",
               "lfm/fine-tuning/unsloth"
